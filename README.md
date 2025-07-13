@@ -10,4 +10,4 @@ I only use AutoHotkeys for accents because I prefer the rest of my config to liv
 
 Here's a picture of the layout :
 
-![Accent Keymap](drawer\accent_keymap.png)
+![Accent Keymap](drawer/accent_keymap.png)
