@@ -1,0 +1,17 @@
+layout:
+  qmk_keyboard: keychron/v2/ansi
+  layout_name: LAYOUT_ansi_67
+layers:
+  BASE:
+    - [Esc, "1", "2", "3", "4", "5", "6", "7", "8", "9", "0", "-", "=", Bspace, Ins]
+    - [Tab, Q, W, E, R, T, Y, U, I, O, P, "[", "]", "\\", Del]
+    - [Caps Lock, A, S, D, F, G, H, J, K, L, ";", "'", Enter, Home]
+    - [Shift, Z, X, C, V, B, N, M, ",", ".", "/", Shift, "^"]
+    - [Ctrl, Cmd, Alt, Space, Alt Gr, Cmd, Ctrl, "<", v, ">"]
+  ACCENTS:
+    - [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null]
+    - [null, null, Ê, É, È, null, Ù, Û, Î, Ô, null, null, null, null, null]
+    - [null, À, Â, Ë, null, null, null, Ü, Ï, null, null, null, null, null]
+    - [null, null, null, Ç, null, null, null, null, null, null, null, null, null]
+    - [null, null, null, null, null, null, null, null, null, null]
+    

@@ -9,3 +9,5 @@ In comes this AutoHotkey config, that let's me use the Alt Gr key to directly pu
 I only use AutoHotkeys for accents because I prefer the rest of my config to live on my devices (ZMK - QMK), and because handling accents in firmware is a pain, since they aren't integrated in the HID standard and are always handled by the OS. At some point I'll make a config for linux too. 
 
 Here's a picture of the layout :
+
+[Accent Keymap](drawer\accent_keymap.png)
